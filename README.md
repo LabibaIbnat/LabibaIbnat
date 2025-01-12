@@ -74,11 +74,27 @@
 <br>
 <br>
 <br>
+
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LABIBAIBNAT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" height="150" alt="Stats Graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LABIBAIBNAT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="Languages Graph" />
   </div>
 
+<br>
+<br>
+<br>
+
+<div>
+  <a href="https://github.com/LabibaIbnat" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LabibaIbnat&theme=monokai"/>
+
+  <br>
+  <br>
   <br>
 
   <img src="https://profile-counter.glitch.me/LABIBAIBNAT/count.svg?" alt="Profile Counter">
