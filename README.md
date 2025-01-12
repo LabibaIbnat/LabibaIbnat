@@ -53,7 +53,7 @@
   <h2 style="color: #9B59B6; font-size: 2.5rem;">Connect with Me 🌐</h2>
   <p style="font-size: 1.1rem; color: #34495E;">Let’s collaborate, debug, and build something extraordinary together!</p>
   <div style="display: flex; justify-content: center; gap: 25px;">
-    <a href="https://linkedin.com" target="_blank">
+    <a href="https://www.linkedin.com/in/labiba17/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" />
     </a> 
     <a href="https://discord.com" target="_blank">
